@@ -16493,3 +16493,9 @@ html {
     font-style: normal;
     font-display: swap;
   }
+
+.more-templates , .buy-now-fixed , .hire-popup{
+    display:none;
+}
+
+
